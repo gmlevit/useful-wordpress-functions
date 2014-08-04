@@ -2,7 +2,7 @@
 
 /*
  * Change the default text of all passoword-protected pages
- * Add this to your theme's functions.php to create a plugin
+ * Add this to your theme's functions.php
  */
 
 //1. Add filter to change the text and display the form
